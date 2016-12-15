@@ -152,7 +152,7 @@ export function setFlags(commander: Object) {
 }
 
 export function getReqDepth(inputDepth: string) : number {
-  return inputDepth && /^\d+$/.test(inputDepth) ?  Number(inputDepth) : -1;
+  return inputDepth && /^\d+$/.test(inputDepth) ?  Number(inputDepth) : 0;
 }
 
 export function filterTree(tree: Tree, filters: Array<string>): boolean {
