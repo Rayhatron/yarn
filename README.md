@@ -1,3 +1,13 @@
+First Timers Only
+=================
+
+Follow the guide [here](http://blog.scottlowe.org/2015/01/27/using-fork-branch-git-workflow/).
+
+Run `npm install` or `yarn` to install dependencies.
+
+`npm test` or `yarn test` to run the test suite.
+
+
 <p align="center">
   <a href="https://yarnpkg.com/">
     <img alt="Yarn" src="https://github.com/yarnpkg/assets/blob/master/yarn-kitten-full.png?raw=true" width="546">
